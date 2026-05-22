@@ -4,7 +4,7 @@
 
 *Elden Ring Weakness Guide* started as a reference problem: valuable gameplay information existed, but it lived across spreadsheet tabs, mixed visual layouts, and fragmented notes that were not practical to consult during play.
 
-The project goal was to turn that material into a mobile companion app that felt faster, clearer, and more intentional than the original source.
+The project goal was to turn that material into a mobile companion app that felt faster, clearer, and more intentional than the original sources.
 
 ## The Challenge
 
