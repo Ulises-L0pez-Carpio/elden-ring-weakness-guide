@@ -83,7 +83,7 @@ Para un desglose más específico, revisa [docs/how-it-was-built.md](./docs/how-
 
 ## Decisiones de producto
 
-- Prioricé navegación mobile-first sobre una presentación tipo tabla densa.
+- Prioricé navegación mobile sobre una presentación tipo tabla densa.
 - Usé identidad visual por sección para acelerar reconocimiento y navegación.
 - Enfoqué la app en referencia accionable en lugar de replicar cada campo bruto del material original.
 - Organicé el contenido para que la app pudiera crecer sin perder claridad.
@@ -93,7 +93,7 @@ Para un desglose más específico, revisa [docs/how-it-was-built.md](./docs/how-
 - Línea actual de la app: `3.0.1 / 31`
 - Package de Android: `nightreign.w.g`
 - Objetivo del repo público: presentación del proyecto y descarga de la app
-- Código fuente: intencionalmente privado en esta versión pública del proyecto
+- Código fuente: intencionalmente privado
 
 ## Caso de estudio
 

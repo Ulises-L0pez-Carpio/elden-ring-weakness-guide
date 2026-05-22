@@ -83,7 +83,7 @@ For a dedicated breakdown, see [docs/how-it-was-built.md](./docs/how-it-was-buil
 
 ## Product Decisions
 
-- Prioritized mobile-first browsing over dense table-style presentation.
+- Prioritized mobile browsing over dense table-style presentation.
 - Used section identity and visual framing to make navigation faster.
 - Focused on actionable reference instead of mirroring every raw spreadsheet field.
 - Structured the content so the app could scale without losing clarity.
@@ -93,7 +93,7 @@ For a dedicated breakdown, see [docs/how-it-was-built.md](./docs/how-it-was-buil
 - Current app line: `3.0.1 / 31`
 - Android package: `nightreign.w.g`
 - Public repo purpose: project presentation and app download
-- Source code: intentionally private in the public project version
+- Source code: intentionally private
 
 ## Case Study
 
