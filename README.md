@@ -67,23 +67,23 @@ For a dedicated breakdown, see [docs/how-it-was-built.md](./docs/how-it-was-buil
 
 ### Home
 
-![Home screen](./media/screens/home.jpeg)
+<img src="./media/screens/home.jpeg" alt="Home screen" width="320" />
 
 ### Nightlords
 
-![Nightlords screen](./media/screens/nightlords.jpeg)
+<img src="./media/screens/nightlords.jpeg" alt="Nightlords screen" width="320" />
 
 ### Night Bosses
 
-![Night Bosses screen](./media/screens/bosses.jpeg)
+<img src="./media/screens/bosses.jpeg" alt="Night Bosses screen" width="320" />
 
 ### Nightlord Detail
 
-![Nightlord detail screen](./media/screens/nightlord-detail.jpeg)
+<img src="./media/screens/nightlord-detail.jpeg" alt="Nightlord detail screen" width="320" />
 
 ### Recluse
 
-![Recluse screen](./media/screens/recluse.jpeg)
+<img src="./media/screens/recluse.jpeg" alt="Recluse screen" width="320" />
 
 ## Product Decisions
 
