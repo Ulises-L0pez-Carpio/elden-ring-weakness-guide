@@ -53,12 +53,3 @@ The result was an Android-ready companion app that combined:
 
 The current public release line presented in this project is `3.0.1 / 31`.
 
-## What This Project Shows
-
-- product thinking
-- mobile UX direction
-- content-heavy interface design
-- information architecture
-- data cleanup and normalization
-- React Native implementation
-- Android release packaging
