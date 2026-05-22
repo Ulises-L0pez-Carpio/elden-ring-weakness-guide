@@ -1,5 +1,7 @@
 # Elden Ring Weakness Guide
 
+[English](./README.md) | [Español](./README.es.md)
+
 Portfolio presentation for a mobile companion app focused on boss-weakness lookup, encounter reference, and game-aligned mobile UX for *Elden Ring Nightreign* players.
 
 ## Project Summary
