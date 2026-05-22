@@ -27,8 +27,6 @@ The app is not currently distributed through the Play Store.
 - Current APK size: about `80.2 MB`
 - Official Play Store publication line represented here: `3.0.1 / 31`
 
-The official Android App Bundle for store distribution exists separately as `app-release.aab`, but the APK is the correct artifact for direct recruiter or reviewer installation.
-
 ## What The App Does
 
 The app helps players quickly check combat reference information without leaving the gameplay context to dig through spreadsheets, notes, or community pages.

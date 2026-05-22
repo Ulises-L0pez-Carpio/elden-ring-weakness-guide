@@ -27,8 +27,6 @@ La app no está distribuida actualmente en Play Store.
 - Tamaño actual de la APK: aproximadamente `80.2 MB`
 - Línea oficial de publicación representada aquí: `3.0.1 / 31`
 
-El Android App Bundle oficial para distribución en tienda existe por separado como `app-release.aab`, pero la APK es el artifact correcto para instalación directa por parte de reclutadores, revisores o personas que visiten el proyecto.
-
 ## Qué hace la app
 
 La app permite consultar información de combate sin salir del contexto de juego para navegar entre spreadsheets, notas o páginas externas.
