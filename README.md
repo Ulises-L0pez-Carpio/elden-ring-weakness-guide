@@ -1,0 +1,102 @@
+# Elden Ring Weakness Guide
+
+Portfolio presentation for a mobile companion app focused on boss-weakness lookup, encounter reference, and game-aligned mobile UX for *Elden Ring Nightreign* players.
+
+## Project Summary
+
+*Elden Ring Weakness Guide* is a mobile companion app designed for players who want fast, readable combat reference during gameplay preparation or active runs. Instead of relying on spreadsheets, scattered notes, and community pages, the app brings core Nightreign information into one structured mobile experience.
+
+This public repository exists as a portfolio project showcase. It does **not** include the source code. Its purpose is to present the product, explain how it was built, show the current interface, and provide an installable Android APK.
+
+## Why This Project Exists
+
+Nightreign reference material is useful, but the original information sources are not optimized for quick mobile consultation. The project reframed that problem as a product challenge:
+
+- make weakness and encounter lookup faster
+- reduce friction during player decision making
+- turn dense source material into a clearer mobile interface
+- preserve depth without preserving spreadsheet complexity
+
+## APK Download
+
+The app is not currently distributed through the Play Store.
+
+- Local APK included in this portfolio package: [`downloads/android/elden-ring-weakness-guide.apk`](./downloads/android/elden-ring-weakness-guide.apk)
+- Current APK size: about `80.2 MB`
+- Official Play Store publication line represented here: `3.0.1 / 31`
+
+This APK comes from the current public release line stored in the private project under `releases/play-store-v3.0.1/`.
+
+The official Android App Bundle for store distribution exists separately as `app-release.aab`, but the APK is the correct artifact for direct recruiter or reviewer installation.
+
+## What The App Does
+
+The app helps players quickly check combat reference information without leaving the gameplay context to dig through spreadsheets, notes, or community pages.
+
+It brings together:
+
+- Nightlord weakness and resistance reference
+- Night Boss encounter browsing
+- Nightlord detail views with combat-reference data
+- movement timing and recovery information
+- Scholar item reference
+- Recluse cocktail combinations
+
+## My Contribution
+
+I built the project end to end:
+
+- product framing
+- information architecture
+- mobile UI direction
+- content integration
+- data cleanup and transformation
+- release-oriented Android packaging and validation
+
+## How It Was Built
+
+The project was built as an Expo + React Native mobile app using TypeScript and structured local JSON data derived from spreadsheet-based and manually curated reference material.
+
+The main challenge was not only implementation, but translation: taking information that was inconsistent, dense, and partially visual in its original form, then converting it into a cleaner mobile product with searchable sections, reusable detail views, and a stronger visual system.
+
+For a dedicated breakdown, see [docs/how-it-was-built.md](./docs/how-it-was-built.md).
+
+## Screens
+
+### Home
+
+![Home screen](./media/screens/home.jpeg)
+
+### Nightlords
+
+![Nightlords screen](./media/screens/nightlords.jpeg)
+
+### Night Bosses
+
+![Night Bosses screen](./media/screens/bosses.jpeg)
+
+### Nightlord Detail
+
+![Nightlord detail screen](./media/screens/nightlord-detail.jpeg)
+
+### Recluse
+
+![Recluse screen](./media/screens/recluse.jpeg)
+
+## Product Decisions
+
+- Prioritized mobile-first browsing over dense table-style presentation.
+- Used section identity and visual framing to make navigation faster.
+- Focused on actionable reference instead of mirroring every raw spreadsheet field.
+- Structured the content so the app could scale without losing clarity.
+
+## Release Context
+
+- Current app line: `3.0.1 / 31`
+- Android package: `nightreign.w.g`
+- Public repo purpose: portfolio presentation and app download
+- Source code: intentionally private in the public portfolio version
+
+## Case Study
+
+For the short project walkthrough, see [docs/case-study.md](./docs/case-study.md).
