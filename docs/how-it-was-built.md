@@ -17,7 +17,7 @@ The app was built as a mobile companion for *Elden Ring Nightreign* players who 
 The project was developed around three main workstreams:
 
 1. **Information architecture**
-   The source material was reorganized into player-facing sections such as Nightlords, Night Bosses, Recluse, Scholar, and movement timing.
+   The source material was reorganized into player-facing sections such as Nightlords, Night Bosses, Recluse, Scholar, and dodge timing.
 
 2. **Data transformation**
    Spreadsheet-based and manually curated reference material was normalized into app-friendly data structures so the UI could render consistent cards, detail views, filters, and section navigation.
