@@ -35,4 +35,4 @@ The project was developed around three main workstreams:
 
 ## Final Output
 
-The result was an Android-ready mobile app intended to be presented as a polished portfolio project, with the source code kept private and the public repo focused on the product story, screenshots, the direct APK download, and evidence of the official `3.0.1 / 31` release line.
+The result was an Android-ready mobile app intended to be presented as a polished public project, with the source code kept private and the public repo focused on the product story, screenshots, the direct APK download, and evidence of the official `3.0.1 / 31` release line.

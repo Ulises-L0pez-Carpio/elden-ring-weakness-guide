@@ -51,7 +51,7 @@ The result was an Android-ready companion app that combined:
 - themed section layouts
 - polished branded presentation
 
-The current public release line presented in this portfolio is `3.0.1 / 31`.
+The current public release line presented in this project is `3.0.1 / 31`.
 
 ## What This Project Shows
 

@@ -2,13 +2,13 @@
 
 [English](./README.md) | [Español](./README.es.md)
 
-Presentación de portafolio de una app móvil enfocada en consulta rápida de debilidades de jefes, referencia de encuentros y una experiencia móvil alineada con la estética de *Elden Ring Nightreign*.
+Presentación de proyecto de una app móvil enfocada en consulta rápida de debilidades de jefes, referencia de encuentros y una experiencia móvil alineada con la estética de *Elden Ring Nightreign*.
 
 ## Resumen del proyecto
 
 *Elden Ring Weakness Guide* es una app móvil pensada para jugadores que necesitan consultar información de combate de forma rápida y legible mientras preparan o juegan una run. En lugar de depender de hojas de cálculo, notas dispersas y páginas de comunidad, la app reúne la información clave de Nightreign en una sola experiencia móvil estructurada.
 
-Este repositorio público existe como muestra de portafolio. **No** incluye el código fuente. Su objetivo es presentar el producto, explicar cómo fue construido, mostrar la interfaz actual y ofrecer una APK instalable para Android.
+Este repositorio público existe para presentar el proyecto. **No** incluye el código fuente. Su objetivo es presentar el producto, explicar cómo fue construido, mostrar la interfaz actual y ofrecer una APK instalable para Android.
 
 ## Por qué existe este proyecto
 
@@ -29,7 +29,7 @@ La app no está distribuida actualmente en Play Store.
 
 Esta APK proviene de la línea de release pública actual mantenida en el proyecto privado bajo `releases/play-store-v3.0.1/`.
 
-El Android App Bundle oficial para distribución en tienda existe por separado como `app-release.aab`, pero la APK es el artifact correcto para instalación directa por parte de reclutadores, revisores o personas que visiten el portafolio.
+El Android App Bundle oficial para distribución en tienda existe por separado como `app-release.aab`, pero la APK es el artifact correcto para instalación directa por parte de reclutadores, revisores o personas que visiten el proyecto.
 
 ## Qué hace la app
 
@@ -96,8 +96,8 @@ Para un desglose más específico, revisa [docs/how-it-was-built.md](./docs/how-
 
 - Línea actual de la app: `3.0.1 / 31`
 - Package de Android: `nightreign.w.g`
-- Objetivo del repo público: presentación de portafolio y descarga de la app
-- Código fuente: intencionalmente privado en esta versión pública
+- Objetivo del repo público: presentación del proyecto y descarga de la app
+- Código fuente: intencionalmente privado en esta versión pública del proyecto
 
 ## Caso de estudio
 
