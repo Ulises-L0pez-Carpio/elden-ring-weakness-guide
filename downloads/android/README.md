@@ -6,6 +6,4 @@ Current file:
 
 `elden-ring-weakness-guide.apk`
 
-This APK corresponds to the current `3.0.1 / 31` release line and is intended for direct installation by recruiters, reviewers, or visitors who want to try the project.
-
-The `.aab` remains the official Play Store submission artifact, but the APK is the correct file for public hands-on testing.
+This APK corresponds to the current `3.0.1 / 31` release line and is intended for direct installation by visitors who want to try the project.
