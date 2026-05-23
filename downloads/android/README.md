@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../../media/branding/istilezz-labs-logo.png" alt="istilezz Labs" width="320" />
+  <img src="../../media/branding/istilezz-labs-logo.png" alt="istilezz Labs" width="160" />
 </p>
 
 <p align="center"><strong>istilezz Labs</strong></p>
