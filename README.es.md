@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./media/branding/istilezz-labs-logo.png" alt="istilezz Labs" width="320" />
+</p>
+
+<p align="center"><strong>istilezz Labs</strong></p>
+
 # Elden Ring Weakness Guide
 
 [English](./README.md) | [Español](./README.es.md)
