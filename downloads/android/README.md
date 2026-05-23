@@ -8,8 +8,8 @@
 
 This folder contains the Android APK for the public project version.
 
-Current file:
+Current public download:
 
-`elden-ring-weakness-guide.apk`
+[`elden-ring-weakness-guide.apk`](https://github.com/Ulises-L0pez-Carpio/elden-ring-weakness-guide/releases/download/v3.0.1/elden-ring-weakness-guide.apk)
 
 This APK corresponds to the current `3.0.1 / 31` release line and is intended for direct installation by visitors who want to try the project.

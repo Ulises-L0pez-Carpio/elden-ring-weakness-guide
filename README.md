@@ -30,6 +30,8 @@ Nightreign reference material is useful, but the original information sources ar
 The app is not currently distributed through the Play Store.
 
 - Local APK included in this project package: [`downloads/android/elden-ring-weakness-guide.apk`](./downloads/android/elden-ring-weakness-guide.apk)
+- Direct APK download: [Download for Android](https://github.com/Ulises-L0pez-Carpio/elden-ring-weakness-guide/releases/download/v3.0.1/elden-ring-weakness-guide.apk)
+- Release page: [Elden Ring Weakness Guide v3.0.1](https://github.com/Ulises-L0pez-Carpio/elden-ring-weakness-guide/releases/tag/v3.0.1)
 - Current APK size: about `80.2 MB`
 - Official Play Store publication line represented here: `3.0.1 / 31`
 
